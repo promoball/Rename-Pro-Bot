@@ -11,7 +11,7 @@ AFTER FORK DON'T FORGET TO MAKE YOUR OWN DEPLOY LINK OTHERWISE BOT WILL NOT WORK
 
 
 
-A File Rename Bot with Custom Thumbnail Support
+Fastest file renamer bot with permanent thumbnail support
 
 
 
@@ -60,11 +60,11 @@ mongodb+srv://MRUSERNAME:MRPASSWORD@cluster0.dciqs.mongodb.net/myFirstDatabase?r
 
 
 ## Bot Commands
-> Check Bot Status
+> CHECH I AM ALIVE
 * `/start` Check bot Status
-> View Thumbnail 
+> VIEW THUMBNAIL
 * `/viewthumb` View Thumbnail 
-> Delete Thumbnail
+> DELETE THUMBNAIL
 * `/delthumb` Delete Thumbnail
 
 
